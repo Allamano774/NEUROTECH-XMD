@@ -1,5 +1,5 @@
 {
-  "name": "ALPHA-MD",
+  "name": "NEUROTECH-xmD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node index.js", 
     "start": "node index.js", 
-    "keith": "pm2 start index.js --attach --max-memory-restart 490M",
+    "neurotech": "pm2 start index.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Alpha-Md",
+    "Neurotech-xMd",
     "whatsapp",
     "whatsapp-bot",
-    "keithkeizzah"
+    "neurotech"
   ],
-  "author": "keithkeizzah",
+  "author": "Allamano",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",  
