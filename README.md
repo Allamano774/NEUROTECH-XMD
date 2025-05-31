@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" height="auto" src="https://i.ibb.co/gZCRDV6x/Whats-App-Image-2025-05-30-at-13-08-32-53869e27.jpg" alt="NEUROTECH-XMD Banner">
+  <img src="https://i.ibb.co/gZCRDV6x/Whats-App-Image-2025-05-30-at-13-08-32-53869e27.jpg" alt="NEUROTECH-XMD Banner" width="100" height="50">
 </p>
 
 <p align="center">
