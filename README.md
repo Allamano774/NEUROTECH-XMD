@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/gZCRDV6x/Whats-App-Image-2025-05-30-at-13-08-32-53869e27.jpg" alt="NEUROTECH-XMD Banner" width="100" height="50">
+  <img src="https://i.ibb.co/gZCRDV6x/Whats-App-Image-2025-05-30-at-13-08-32-53869e27.jpg" alt="NEUROTECH-XMD Banner" width="600" height="400">
 </p>
 
 <p align="center">
@@ -19,3 +19,4 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Empowering+Neurotechnology+Innovation" alt="Typing SVG">
   </a>
 </p>
+
