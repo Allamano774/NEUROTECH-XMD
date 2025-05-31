@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" height="auto" src="https://i.imgur.com/1DkLGVk.jpeg" alt="NEUROTECH-XMD Banner">
+  <img align="center" height="auto" src="https://ibb.co/gZCRDV6x" alt="NEUROTECH-XMD Banner">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Empowering+Neurotechnology+Innovation" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Neurotech+XMD" alt="Typing SVG">
   </a>
 </p>
 
